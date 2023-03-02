@@ -4,8 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "HEC Lausanne"
-date: 2017-09 - 2018-01
+date: 2017-2018
 location: "Lausanne, Switzerland"
 ---
 
+
 Responsible for exercise sessions of the econometric and statistics course (second year course)
+
