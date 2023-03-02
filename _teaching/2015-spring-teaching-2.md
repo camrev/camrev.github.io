@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Paris 1 Panthéon Sorbonne"
-date: 2021 - 2022
+date: 2021
 location: "Paris, France"
 ---
 
