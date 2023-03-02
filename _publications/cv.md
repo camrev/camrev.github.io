@@ -1,9 +1,8 @@
 ---
 title: "CV"
 collection: cv
-permalink: /cv/cv
-paperurl: 'http://academicpages.github.io/files/cv.pdf'
+permalink: /cv/
 
 ---
 
-[Download paper here]([http://academicpages.github.io/files/cv.pdf])
+[CV]([http://academicpages.github.io/files/cv.pdf])
