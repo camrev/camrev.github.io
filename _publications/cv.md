@@ -6,4 +6,4 @@ paperurl: 'http://academicpages.github.io/files/cv.pdf'
 
 ---
 
-[Download paper here](http://academicpages.github.io/files/cv.pdf)
+[Download paper here]([http://academicpages.github.io/files/cv.pdf])
