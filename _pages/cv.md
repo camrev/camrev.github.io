@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv/https://github.com/camrev/camrev.github.io/blob/master/files/CV.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -9,3 +9,4 @@ redirect_from:
 
 
 https://github.com/camrev/camrev.github.io/blob/master/files/CV.pdf
+
