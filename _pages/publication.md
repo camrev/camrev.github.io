@@ -13,7 +13,9 @@ author_profile: true
 
  Camille Reverdy, *"Trade and Reputation: the impact of certification"* 
  
-Irene Iodice and Camille Reverdy, *"Technical Regulations, Intermediate Inputs and Firms' Sourcing Decisions"* **Winner of the FIW Young Economist Award'23** 
+Irene Iodice and Camille Reverdy, *"Technical Regulations, Intermediate Inputs and Firms' Sourcing Decisions"* - *Winner of the FIW Young Economist Award'23*
+
+
 
  Ana Fernandes, Devaki Ghose and Camille Reverdy, *"Sri Lanka's import bans"*
 
