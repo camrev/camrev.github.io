@@ -8,7 +8,7 @@ main:
     url: /Research/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/camrev/camrev.github.io/blob/master/files/CV.pdf
 
   - title: "Teaching"
     url: /teaching/    
