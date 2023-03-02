@@ -3,19 +3,13 @@ layout: archive
 title: "Research"
 permalink: /Research/
 author_profile: true
-redirect_from:
-  - /Research/
-  - /Research.html
+
 ---
 
 
 
+## Ongoing Projects 
 
-
-
-
-Ongoing Projects 
-======
 
  Camille Reverdy, *"Trade and Reputation: the impact of certification"* 
  
@@ -27,8 +21,8 @@ Irene Iodice and Camille Reverdy, *"Technical Regulations, Intermediate Inputs a
  Richard Baldwin, Giovanni Donato and Camille Reverdy, *"How to make trade agreements work better for society"*
 
 
-Publication
-======
+## Publication
+
 
  Camille Reverdy, *"Estimating the general equilibrium effects of services trade liberalization"*, Review of International Economics, 2022
 
