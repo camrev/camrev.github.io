@@ -87,7 +87,7 @@ author:
   employer         : Geneva Graduate Institute  
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=DIJ3SW0AAAAJ&hl=en"
-  email            : "camille.reverdy@graduateinsitute.ch"
+  email            : &email "camille.reverdy@graduateinsitute.ch"
   researchgate     :  
   uri              :
   bitbucket        :
