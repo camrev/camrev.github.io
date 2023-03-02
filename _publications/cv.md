@@ -1,7 +1,7 @@
 ---
 title: "CV"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+collection: cv
+permalink: /cv/cv
 paperurl: 'http://academicpages.github.io/files/cv.pdf'
 
 ---
