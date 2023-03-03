@@ -4,6 +4,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+
 ---
 
 #### Teaching and Research Fellow (*ATER*), *University of Paris 1 Panthéon Sorbonne*, 2021-2022
