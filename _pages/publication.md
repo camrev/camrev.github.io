@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-
-
 ## Ongoing Projects 
 
 
