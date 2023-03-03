@@ -24,4 +24,3 @@ Irene Iodice and Camille Reverdy, *"Technical Regulations, Intermediate Inputs a
 
 
  Camille Reverdy, *"Estimating the general equilibrium effects of services trade liberalization"*, Review of International Economics, 2022
-
