@@ -3,13 +3,12 @@ layout: archive
 title: "Research"
 permalink: /Research/
 author_profile: true
-
 ---
 
 ## Ongoing Projects 
 
 
- Camille Reverdy, *"Trade and Reputation: the impact of certification"* 
+ Camille Reverdy, *"Trade and Reputation: the impact of certification"*
  
 Irene Iodice and Camille Reverdy, *"Technical Regulations, Intermediate Inputs and Firms' Sourcing Decisions"* - *Winner of the FIW Young Economist Award'23*
 
