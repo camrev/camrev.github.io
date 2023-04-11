@@ -12,9 +12,9 @@ I am a post-doctoral researcher at the Geneva Graduate Insitute, under the super
 I hold a PhD in international economics from the University of Paris 1 Panthéon-Sorbonne and I was a Marie Curie Early-Stage Researcher in the framework of the Horizon 2020 Marie Curie network on European Union Trade and Investment Perspectives. 
 My thesis is entitled « Essays on Regulatory Measures in International Trade » and was supervised by Lionel Fontagné and Gianluca Orefice. 
 
-Before joining the University of Paris 1, I interned at the International Trade Centre in Geneva, working on the non-tariff measures impeding trade in developing countries and as an international consultant in market research at the ITC, developing a method assessing export potential value for trade in services. 
+Before joining the University of Paris 1, I interned at the International Trade Centre in Geneva, working on the non-tariff measures impeding trade in developing countries and as an international consultant in market research in ITC, developing a method assessing export potential value for trade in services. 
 
-I also work as an international consultant for the World Bank on a project assessing the impact of import ban in Sri Lanka.
+I also work as an international consultant for the World Bank on a project assessing the impact of import ban in Sri Lanka, with Ana Fernandes and Devaki Ghose.
 
 My research focuses on how international trade shapes policies, markets and firms.
 
