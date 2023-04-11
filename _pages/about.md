@@ -23,7 +23,7 @@ You can contact me at camille.reverdy@graduateinsitute.ch
 Education
 ======
 
-2018-2022, PhD in economics, University of Paris 1 Panthéon-Sorbonne
+2018-2022 - PhD in economics, University of Paris 1 Panthéon-Sorbonne
 
 2015-2017 - Master in economics, HEC Lausanne, Switzerland
 
