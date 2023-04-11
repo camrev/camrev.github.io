@@ -23,10 +23,9 @@ You can contact me at camille.reverdy@graduateinsitute.ch
 Education
 ======
 
-2015-2017 - Master in economics, HEC Lausanne, Switzerland
-
 2018-2022, PhD in economics, University of Paris 1 Panthéon-Sorbonne
 
+2015-2017 - Master in economics, HEC Lausanne, Switzerland
 
 Research experience
 ======
@@ -47,9 +46,9 @@ Selected Research
 
 •	Estimating the General Equilibrium Effects of Services Trade Liberalisation (RIE, 2022)
 
-•	How to make trade agreements work better for society (SNF Project) 
+•	How to make trade agreements work better for society (SNF Project, with Richard Baldwin and Giovanni Donato) 
 
-•	Import ban in Sri Lanka 
+•	Import ban in Sri Lanka (with Ana Fernandes and Devaki Ghose)
 
 •	Trade and Reputation: the impact of certification 
 
@@ -67,4 +66,4 @@ Chemin Eugène-Rigot 2,
 1202 Genève, Switzerland
 
 ------
-Last update 03/2023 
+Last update 04/2023 
