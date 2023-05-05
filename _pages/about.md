@@ -18,7 +18,7 @@ I also work as an international consultant for the World Bank on a project asses
 
 My research focuses on how international trade shapes policies, markets and firms.
 
-You can contact me at camille.reverdy@graduateinsitute.ch
+You can contact me at camille.reverdy@graduateinstitute.ch
 
 Education
 ======
