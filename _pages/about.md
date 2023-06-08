@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at the Geneva Graduate Insitute, under the supervision of Richard Baldwin. 
+I am a post-doctoral researcher at the Geneva Graduate Institute, under the supervision of Richard Baldwin. 
 I hold a PhD in international economics from the University of Paris 1 Panthéon-Sorbonne and I was a Marie Curie Early-Stage Researcher in the framework of the Horizon 2020 Marie Curie network on European Union Trade and Investment Perspectives. 
 My thesis is entitled « Essays on Regulatory Measures in International Trade » and was supervised by Lionel Fontagné and Gianluca Orefice. 
 
