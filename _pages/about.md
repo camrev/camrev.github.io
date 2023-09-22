@@ -48,7 +48,7 @@ Selected Research
 
 •	Identifying Spillovers of Trade Agreements Through Impact Assessments: A New Database (with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato)
 
-•	How to make trade agreements work better for society (with [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga) and [Céline Carrère](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/celine-carrere/)) 
+•	The impact of labour standards on growth (with [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga) and [Céline Carrère](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/celine-carrere/)) 
 
 •	How to make trade agreements work better for society (SNF Project, with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato) 
 
