@@ -29,6 +29,17 @@ author_profile: true
   - **How to make trade agreements work better for society**, *with Richard Baldwin and Giovanni Donato*
 
 
+## Publication
+
+
+- ***["Estimating the general equilibrium effects of services trade liberalization"](https://onlinelibrary.wiley.com/doi/full/10.1111/roie.12635)*, Review of International Economics, 2022**
+
+
+   <sub>***Abstract:***</sub> <sub>The intangible nature of services and the lack of disaggregated trade data increase the difficulties involved in assessing the impediments to cross-border trade in services. In an attempt to reduce the information gap existing in services trade, this article estimates the impact of trade barriers along with the conditional and general equilibrium responses to the partial liberalization of services trade, using structural gravity. Using data collected by the OECD, I find that the level of restrictiveness applied by an importing country has a negative and significant impact on trade; however, this impact is heterogeneous across services sectors. By focusing on eight services sectors, I find that the partial liberalization of services trade will cause real income to increase by, on average, 4.8%. The most restrictive countries are the largest winners of the partial liberalization of services trade, benefiting from the availability of less expensive sources and an increase in their attractiveness as a source.</sub> 
+
+
+
+
 
    
 
