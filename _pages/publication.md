@@ -15,6 +15,7 @@ author_profile: true
 
  - **Protection or Protectionism: The Effect of Technical Regulations on Inputs' Sourcing**, *with Irene Iodice*  
    - *Winner of the FIW Young Economist Award'23*
+   - *Finalist for 2024 Distinguished CESifo Affiliate Award*
 
     <sub>***Abstract:***</sub> <sub>This study explores how Technical Barriers to Trade (TBTs) regulations affect firms' sourcing of intermediate inputs and supply chains. We build on the Grossman et al.,(2021a) model to analyse how new standards influence firms' import locations, quantities, and prices. We created a comprehensive database of all TBTs implemented from 1995-2020, integrated with trade agreement depths, a panel of French importers, and a new index measuring regulatory distances between the EU's TBT and input origin countries. Our findings reveal that EU TBT implementations lead to a 4% increase in inputs imported from EU suppliers and a 2% price rise, while imports from non-EU countries drop by 4.5%. This shift mainly affects less developed and EU-disconnected countries, highlighting that supply chain reorganization depends on regulatory adaptation costs. Additionally, supply chains with high relationship-specific investments are less impacted by national standard changes.</sub>
 
