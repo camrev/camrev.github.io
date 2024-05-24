@@ -29,6 +29,8 @@ Education
 Research experience
 ======
 
+Postdoctoral Researcher, IHEID 
+
 External Consultant, World Bank
 
 Visiting Research Fellow, Kiel Insitute for the World Economy
@@ -51,11 +53,9 @@ Selected Research
 
 •	How to make trade agreements work better for society (SNF Project, with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato) 
 
-•	Import ban in Sri Lanka (with Ana Fernandes and Devaki Ghose)
+•	Building a new reputation: the impact of voluntary standards' adoption 
 
-•	Trade and Reputation: the impact of certification 
-
-•	Technical Standards, intermediate inputs and sourcing decisions (with [Irene Iodice](https://ioire.github.io)) 
+•	Protection or Protectionism: The Effect of Technical Regulations on Inputs' Sourcing (with [Irene Iodice](https://ioire.github.io)) 
 
 •	Business Perception on Burdensome Non-Tariff Measures and their Impact on International Trade (with Cristian Ugarte) 
 
