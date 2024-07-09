@@ -47,7 +47,7 @@ Selected Research
 
 •	[Estimating the General Equilibrium Effects of Services Trade Liberalisation (RIE, 2022)](https://onlinelibrary.wiley.com/doi/abs/10.1111/roie.12635)
 
-•	Identifying Spillovers of Trade Agreements Through Impact Assessments: A New Database (with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato)
+•	Identifying Spillovers of Trade Agreements Through Impact Assessments: A New Database (with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato), *Forthcoming World Trade Review*
 
 •	The impact of labour standards on growth (with [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga) and [Céline Carrère](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/celine-carrere/)) 
 
