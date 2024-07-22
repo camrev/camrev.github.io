@@ -13,7 +13,7 @@ My thesis is entitled « Essays on Regulatory Measures in International Trade »
 
 Before joining the University of Paris 1, I interned at the International Trade Centre (ITC) in Geneva, working on the non-tariff measures impeding trade in developing countries and as an international consultant in market research in ITC, developing a method assessing export potential value for trade in services. 
 
-I also work as an international consultant for the World Bank on a project assessing the impact of import ban in Sri Lanka, with Ana Fernandes and Devaki Ghose.
+I also worked as an international consultant for the World Bank on a project assessing the impact of import ban in Sri Lanka, with Ana Fernandes and Devaki Ghose.
 
 My research focuses on how international trade shapes policies, markets and firms.
 
@@ -53,7 +53,7 @@ Selected Research
 
 •	How to make trade agreements work better for society (SNF Project, with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato) 
 
-•	Building a new reputation: the impact of voluntary standards' adoption 
+•	Building a New Reputation: The Impact of Adopting Voluntary Standards 
 
 •	Protection or Protectionism: The Effect of Technical Regulations on Inputs' Sourcing (with [Irene Iodice](https://ioire.github.io)) 
 
