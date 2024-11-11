@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 Cv: 
-https://github.com/camrev/camrev.github.io/blob/master/files/CV.pdf
+https://drive.google.com/file/d/1Om_GVvnWCCaSQTvFMV10sq0BvXiwAHWF/view?usp=share_link
