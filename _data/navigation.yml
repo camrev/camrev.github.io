@@ -11,4 +11,7 @@ main:
     url: https://github.com/camrev/camrev.github.io/blob/master/files/CV.pdf
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+      - title: "Data"
+    url: /data/   
