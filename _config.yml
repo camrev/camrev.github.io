@@ -190,7 +190,7 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-  Data:
+  data:
     output: true
     permalink: /:collection/:path/
 
