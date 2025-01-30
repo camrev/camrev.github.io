@@ -190,6 +190,9 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
+  Data:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -230,6 +233,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _Data
+  - scope:
+      path: ""
+      type: data
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
 
 # Sass/SCSS
 sass:
