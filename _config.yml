@@ -298,3 +298,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+    git add _config.yml
+git commit -m "Trigger rebuild"
+git push origin main
+
