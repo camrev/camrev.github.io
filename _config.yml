@@ -233,15 +233,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-# _data
-  - scope:
-      path: ""
-      type: data
-    values:
-      layout: data
-      author_profile: true
-      share: true
-      
 
 # Sass/SCSS
 sass:
