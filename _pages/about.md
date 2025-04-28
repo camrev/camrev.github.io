@@ -55,7 +55,7 @@ Selected Research
 
 •	Building a New Reputation: The Impact of Adopting Voluntary Standards 
 
-•	Protection or Protectionism: The Effect of Technical Regulations on Inputs' Sourcing (with [Irene Iodice](https://ioire.github.io)) 
+•	Protection or Protectionism: The Effect of Technical Regulations on Input Sourcing (with [Irene Iodice](https://ioire.github.io)) 
 
 •	Business Perception on Burdensome Non-Tariff Measures and their Impact on International Trade (with Cristian Ugarte) 
 
