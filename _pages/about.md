@@ -49,7 +49,7 @@ Selected Research
 
 •	[Identifying Spillovers of Trade Agreements Through Impact Assessments: A New Database (WTR, 2025)](https://www.cambridge.org/core/journals/world-trade-review/article/identifying-spillovers-of-trade-agreements-through-impact-assessments-a-new-database/AB92BD141F043F5E33CE528F1AA110E7) (with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato)
 
-•	The impact of labour standards on growth (with [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga) and [Céline Carrère](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/celine-carrere/)) 
+•	Labour rights violations, exports and income per capita (with [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga) and [Céline Carrère](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/celine-carrere/)) 
 
 •	How to make trade agreements work better for society (SNF Project, with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato) 
 
