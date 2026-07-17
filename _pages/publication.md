@@ -24,6 +24,8 @@ author_profile: true
 
   - **How to make trade agreements work better for society**, *with Richard Baldwin and Giovanni Donato*
 
+  - **Between Values and Interests: Drivers of EU Aid**, *with Anna Bahí, Roel Dom and Niclas Poitiers*
+
 
 ## Publication
 
