@@ -31,6 +31,10 @@ Research experience
 
 Postdoctoral Researcher, IHEID 
 
+External Consultant, ISO
+
+External Consultant, UNCTAD-ADB
+
 External Consultant, World Bank
 
 Visiting Research Fellow, Kiel Insitute for the World Economy
@@ -51,11 +55,11 @@ Selected Research
 
 •	Labour rights violations, exports and income per capita (with [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga) and [Céline Carrère](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/celine-carrere/)) 
 
-•	How to make trade agreements work better for society (SNF Project, with [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and Giovanni Donato) 
+•	Building a New Reputation: The Impact of Adopting Voluntary Standards
 
-•	Building a New Reputation: The Impact of Adopting Voluntary Standards 
+•	[Protection or Protectionism: The Effect of Technical Regulations on Input Sourcing](https://www.ifo.de/en/cesifo/publications/2025/working-paper/protection-or-protectionism-effect-technical-regulations-input) (with [Irene Iodice](https://ioire.github.io)) 
 
-•	Protection or Protectionism: The Effect of Technical Regulations on Input Sourcing (with [Irene Iodice](https://ioire.github.io)) 
+•	Between Values and Interests: Drivers of EU Aid (with Anna Bahí, Roel Dom and Niclas Poitiers) 
 
 •	Business Perception on Burdensome Non-Tariff Measures and their Impact on International Trade (with Cristian Ugarte) 
 
