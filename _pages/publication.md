@@ -20,7 +20,7 @@ author_profile: true
 
     <sub>***Abstract:***</sub> <sub>This paper examines how Technical Barriers to Trade (TBTs) reshape firms’ global supply chains. We extend Grossman et al. (2024), incorporating TBT-specific adaptation costs into a search-and-bargain framework predicting larger disruption from higher compliance costs. Using a novel dataset linking EU TBTs to French firm-level import data, trade agreement depth, and a new index of regulatory dissimilarity, we find that greater regulatory distance significantly reduces both import likelihood and volume. EU TBTs trigger substantial trade diversion: firms shift sourcing toward harmonised suppliers and away from non-EU partners. This reallocation is weaker for inputs with high relationship-specific investments, highlighting the importance of switching costs, but more pronounced for larger firms, which have greater capacity and incentive to reconfigure sourcing strategies. Price pass-through depends on bargaining power: buyers heavily reliant on a source face larger price rises and steeper quantity reductions.</sub>
 
-  - **Labour rights violations, exports and income per capita**, *with Céline Carrère and Marcelo Olarreaga*
+  - **Labour rights violations, exports and income per capita**, *with Céline Carrère and Marcelo Olarreaga* \[[CEPR Working Paper](https://cepr.org/publications/dp21765)\]
 
   - **How to make trade agreements work better for society**, *with Richard Baldwin and Giovanni Donato*
 
