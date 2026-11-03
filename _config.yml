@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Camille Reverdy"
 title_separator          : "-"
 name                     : &name "Camille Reverdy"
-description              : &description "Postdoctoral researcher @IHEID"
+description              : &description "Economist @ADB"
 url                      : https://camrev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "camrev/camrev.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Camille Reverdy"
   avatar           : "8E065C9B-3D2E-4C65-A052-F10A0460AD10.jpeg"
-  bio              : "Postdoctoral researcher in International Trade"
-  location         : "Geneva, Switzerland"
-  employer         : Geneva Graduate Institute  
+  bio              : "Economist"
+  location         : "Manila, Philippines"
+  employer         : Asian Development Bank  
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=DIJ3SW0AAAAJ&hl=en"
-  email            : &email "camille.reverdy@graduateinstitute.ch"
+  email            : &email "creverdy@adb.org"
   researchgate     :  
   uri              :
   bitbucket        :
