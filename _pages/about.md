@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economist at the Asian Development Bank (ADB), where I joined the Economic Research and Development Impact Department (ERDI) in November 2026. My work focuses on regional cooperation and integration, including international trade, global value chains and foreign direct investment.
+I am an Economist at the Asian Development Bank (ADB), where I joined the Economic Research and Development Impact Department (ERDI). My work focuses on regional cooperation and integration, including international trade, global value chains and foreign direct investment.
 
 Prior to joining ADB, I was a postdoctoral researcher at the Geneva Graduate Institute, under the supervision of [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga). 
 
@@ -71,11 +71,9 @@ Selected Research
 
 Contact
 ------
-CTEI, Geneva Graduate Insitute
+ERDI, Asian Development Bank
 
-Chemin Eugène-Rigot 2, 
-
-1202 Genève, Switzerland
-
+6 ADB Ave, Ortigas Center, 
+1550 Metro Manila, Philippines
 ------
-Last update 01/2025 
+Last update 11/2026
