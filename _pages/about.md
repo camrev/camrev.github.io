@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at the Geneva Graduate Institute, under the supervision of [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga). 
+I am an Economist at the Asian Development Bank (ADB), where I joined the Economic Research and Development Impact Department (ERDI) in November 2026. My work focuses on regional cooperation and integration, including international trade, global value chains and foreign direct investment.
+
+Prior to joining ADB, I was a postdoctoral researcher at the Geneva Graduate Institute, under the supervision of [Richard Baldwin](https://cepr.org/about/people/richard-baldwin) and [Marcelo Olarreaga](https://www.unige.ch/gsem/en/research/faculty/all/marcelo-olarreaga). 
+
 I hold a PhD in international economics from the University of Paris 1 Panthéon-Sorbonne and I was a Marie Curie Early-Stage Researcher in the framework of the Horizon 2020 Marie Curie network on European Union Trade and Investment Perspectives. 
 My thesis is entitled « Essays on Regulatory Measures in International Trade » and was supervised by [Lionel Fontagné](http://www.lionel-fontagne.eu) and [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home). 
 
 Before joining the University of Paris 1, I interned at the International Trade Centre (ITC) in Geneva, working on the non-tariff measures impeding trade in developing countries and as an international consultant in market research in ITC, developing a method assessing export potential value for trade in services. 
 
-I also worked as an international consultant for the World Bank on a project assessing the impact of import ban in Sri Lanka, for a joint project between ADB and UNCTAD and for the International Standard Organisation. 
+I also worked as an international consultant for the World Bank on a project assessing the impact of import ban in Sri Lanka and on a project on trade facilitation, for a joint project between ADB and UNCTAD and for the International Standard Organisation. 
 
 My research focuses on how international trade shapes policies, markets and firms.
 
-You can contact me at camille.reverdy@graduateinstitute.ch
+You can contact me at creverdy@adb.org
 
 Education
 ======
@@ -30,6 +33,8 @@ Research experience
 ======
 
 Postdoctoral Researcher, IHEID 
+
+External Consultant, World Bank
 
 External Consultant, ISO
 
